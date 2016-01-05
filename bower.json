@@ -1,0 +1,10 @@
+{
+  "name": "jaga.github.io",
+  "homepage": "https://github.com/jaga/jaga.github.io",
+  "authors": [
+    "kandros <kandros5591@gmail.com>"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
